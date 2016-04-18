@@ -4,5 +4,10 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
-koans/*
-*~
+
+download
+keynote
+rakelib
+src
+Rakefile
+DEPLOYING
